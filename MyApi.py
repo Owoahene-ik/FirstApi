@@ -1,3 +1,4 @@
+#this Api is to demonstrate GET,POST,PUT AND DELETE with postman
 from flask import Flask, request  
 from flask_restful import Resource, Api, reqparse
 #from flask_api import FlaskApi , status, exceptions
